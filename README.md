@@ -1,7 +1,6 @@
 # Sanjana H V
 
-Computer Science student at RV College of Engineering (RVCE), Bengaluru. Building machine learning pipelines and full-stack web applications with a focus on algorithmic fairness, computer vision, and cloud architectures.
-
+Computer Science student at RV College of Engineering (RVCE), Bengaluru.
 [LinkedIn](https://www.linkedin.com/in/sanjana-hv-40147829a/) &nbsp;|&nbsp; [Email](mailto:7sanjanarvce@gmail.com) &nbsp;|&nbsp; [GitHub](https://github.com/sanjanahv)
 
 ---
