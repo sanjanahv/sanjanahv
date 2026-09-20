@@ -24,21 +24,6 @@ Computer Science student at RV College of Engineering (RVCE), Bengaluru.
 | **[Fake News Detection](https://github.com/sanjanahv/Fake-News-Detection-NLP-SVM-Streamlit_sanjana)** | Python, Scikit-Learn, Streamlit, NLP | Machine learning classifier detecting misinformation in text articles with an interactive web UI. | Built TF-IDF text preprocessing pipeline, trained Support Vector Machine (SVM) classifier, and developed Streamlit app. |
 | **[Secured Gossip](https://github.com/sanjanahv/Secured_Gossip)** | JavaScript, Web Crypto API, Node.js | Zero-knowledge privacy platform for securely sharing self-destructing sensitive text messages. | Implemented client-side cryptographic hashing, end-to-end secret handling, and expiration logic. |
 
----
-
-## GitHub Metrics
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanjanahv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sanjana's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sanjanahv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjanahv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 <p align="center">
   <sub>Bengaluru, India · RV College of Engineering</sub>
